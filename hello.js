@@ -4,7 +4,15 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log ('"Hello World!"' ,'What Up!');
+console.log ("It's My Time To Shine!")
+console.log ('1')
+console.log ('(1+2)')
+console.log ('One')
+console.log ('After')
+console.log ('Another')
+console.log ('"Quotes"')
+
 
 /*  
 Next, PLAY! 
